@@ -292,11 +292,6 @@ python -m data_insight.tests.test_sqlite
 
 ---
 
-## 📖 更多文档
-
-- [开发文档](DEVELOPMENT.md) — 分阶段计划、问题解决记录、RAG 优化详解
-
----
 
 ## 📄 许可证
 
