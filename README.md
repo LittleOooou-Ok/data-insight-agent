@@ -57,7 +57,7 @@
 
 | 组件 | 技术选型 |
 |------|---------|
-| Agent 框架 | HelloAgents（ReActAgent + 子代理机制） |
+| Agent 框架 | ReActAgent + 子代理机制 |
 | LLM | DeepSeek / Qwen / OpenAI 兼容接口 |
 | 数据库 | SQLite / MySQL / PostgreSQL / ClickHouse |
 | RAG 系统 | ChromaDB + Sentence-Transformers + BM25 |
